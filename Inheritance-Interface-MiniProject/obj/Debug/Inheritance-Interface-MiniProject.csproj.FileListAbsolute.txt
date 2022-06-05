@@ -1,0 +1,8 @@
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\bin\Debug\Inheritance-Interface-MiniProject.exe.config
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\bin\Debug\Inheritance-Interface-MiniProject.exe
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\bin\Debug\Inheritance-Interface-MiniProject.pdb
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\obj\Debug\Inheritance-Interface-MiniProject.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\obj\Debug\Inheritance-Interface-MiniProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\obj\Debug\Inheritance-Interface-MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\obj\Debug\Inheritance-Interface-MiniProject.exe
+C:\Users\theav\source\repos\Inheritance-Interface-MiniProjectApp\Inheritance-Interface-MiniProject\obj\Debug\Inheritance-Interface-MiniProject.pdb
